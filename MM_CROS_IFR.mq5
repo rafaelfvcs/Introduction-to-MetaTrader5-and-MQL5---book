@@ -304,7 +304,7 @@ void FechaCompra()
       requisicao.volume       = num_lots; 
       requisicao.price        = 0; 
       requisicao.type         = ORDER_TYPE_SELL;
-      requisicao.type_filling = ORDER_FILLING_FOK;
+      requisicao.type_filling = ORDER_FILLING_RETURN;
       
       //---
       OrderSend(requisicao,resposta);
