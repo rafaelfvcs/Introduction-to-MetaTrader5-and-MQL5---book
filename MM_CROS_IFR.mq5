@@ -7,6 +7,13 @@
 #property link      "https://www.mql5.com"
 #property version   "1.00"
 //---
+//-------------------------------------------------------------------+
+// Atenção: EA para fins APENAS didáticos!
+// Isso aqui não confere orientação e/ou sugestão de investimentos!
+// O autor não se responsabilizar pelo uso indevido deste material 
+//-------------------------------------------------------------------+
+
+// Meus cursos - https://linktr.ee/rafaelfvcs
 
 enum ESTRATEGIA_ENTRADA
   {
